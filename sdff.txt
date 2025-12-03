@@ -1,4 +1,8 @@
 im am a boy!
 youre a girl
 
+<<<<<<< HEAD
 badgay!!
+=======
+qwe
+>>>>>>> js2
